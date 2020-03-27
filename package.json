@@ -26,7 +26,7 @@
     "author": "ConfigCat",
     "license": "MIT",
     "dependencies": {
-        "configcat-common": "jmate0321/configcat-common"
+        "configcat-common": "github:jmate0321/configcat-common#dist"
     },
     "devDependencies": {
         "@types/chai": "^4.2.4",
